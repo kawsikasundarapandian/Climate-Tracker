@@ -1,0 +1,7 @@
+ S.No    Library           Why It Is Used                                   Role in This Project 
+
+| 1️⃣  | Streamlit     To build the web application interface             Creates login page, input fields, buttons, dashboard, charts display.
+| 2️⃣  | Pandas        To handle and manage data                          Stores emission data, processes user inputs, manages leaderboard data.
+| 3️⃣  | NumPy         For mathematical and numerical operations          Performs emission calculations and prepares data for ML prediction     
+| 4️⃣  | Plotly        To create interactive charts and visualizations    Displays pie chart, bar chart, line chart for carbon emission analysis
+| 5️⃣  | Scikit-learn  To implement Machine Learning algorithms           Used for Linear Regression model to predict future carbon emissions
