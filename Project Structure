@@ -1,0 +1,69 @@
+ Features
+
+🔐 User Authentication (Login & Registration)
+
+📊 Personal Carbon Emission Calculation
+
+🌍 Sustainability Score System
+
+🤖 AI-Based Behavior Recommendations
+
+📈 Future Emission Prediction (Linear Regression)
+
+🏆 Community Leaderboard
+
+🌐 Multi-language Support (English & Tamil)
+
+🎨 Light/Dark Theme Toggle
+
+📉 Interactive Data Visualization (Pie, Bar, Line Charts)
+
+🧠 Tech Stack
+Frontend
+
+Streamlit
+
+Backend
+
+Python
+
+Database
+
+SQLite
+
+Machine Learning
+
+Scikit-learn (Linear Regression)
+
+Data Processing
+
+Pandas
+
+NumPy
+
+Visualization
+
+Plotly
+
+⚙️ How It Works
+
+User logs into the system.
+
+Monthly data such as electricity usage, fuel consumption, and food expenses are entered.
+
+Carbon emissions are calculated using predefined emission factors.
+
+The system generates:
+
+Total Carbon Footprint
+
+Sustainability Score
+
+AI-based suggestions
+
+Historical data is stored in SQLite.
+
+A Machine Learning model predicts next month's emissions.
+
+Leaderboard ranks users based on lowest emissions.
+
