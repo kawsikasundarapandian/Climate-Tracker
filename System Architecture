@@ -1,0 +1,13 @@
+ System Architecture
+
+User
+⬇
+Streamlit User Interface
+⬇
+Carbon Calculation Engine
+⬇
+SQLite Database
+⬇
+Machine Learning Prediction Model
+⬇
+Dashboard + Leaderboard + Visualization
